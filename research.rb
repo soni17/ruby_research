@@ -149,7 +149,7 @@ puts Time.now
 #Return type: boolean
 #arguments: file name
 
-
+puts File.exist?("testfile.rb")
 
 
 
